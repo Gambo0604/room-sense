@@ -6,7 +6,7 @@ created_at: "2026-10-30
 ---
 
 
-# October 30th set up github acout
+# October 30th set up github accout.
 
 i spent some time setting up git hub acount and writing all of this 
 
