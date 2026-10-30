@@ -1,7 +1,7 @@
 ---
 title:"room sense"
-author:Adam Dhayan
-description"for now i just set up my git hub account and doing this right now with"
+author:Adam Dhayan.
+description"set up log in and other stuff".
 created_at: "2026-10-30
 ---
 
