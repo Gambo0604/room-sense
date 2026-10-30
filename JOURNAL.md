@@ -11,4 +11,4 @@ created_at: "2026-10-30"
 i spent some time setting up git hub account and writing all of this 
 
 
-total time spent:0.5hours 
+total time spent:"0.5hours"
