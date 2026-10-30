@@ -1,7 +1,7 @@
 ---
 title:"room sense"
 author:Adam Dhayan
-description"for now i just set up my git hub,acount and doing this right now with the help of ai
+description"for now i just set up my git hub,acount and doing this right now with"
 created_at: "2026-10-30
 ---
 
