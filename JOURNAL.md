@@ -1,14 +1,14 @@
 ---
 title:"room sense"
-author:Adam Dhayan.
+author:Adam.
 description"set up log in and other stuff".
 created_at: "2026-10-30
 ---
 
 
-# October 30th set up github accout.
+# October 30th set up GitHub account.
 
-i spent some time setting up git hub acount and writing all of this 
+i spent some time setting up git hub account and writing all of this 
 
 
-total time spent 0.5hours 
+total time spent:0.5hours 
