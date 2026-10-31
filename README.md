@@ -1,2 +1,2 @@
 # room-sense
-this will meausre room temrpature and humdity.
+this will measure room temperature and humidity.
