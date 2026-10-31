@@ -1,11 +1,10 @@
 ---
 title:"room sense"
 author:Adam.
-description:"set up log in and other stuff like repository link for forge".
-screenshot uploaded. 
+description:"set up log in and other stuff like repository link for forge". 
 created_at: "2026-10-30"
 ---
-
+screenshot upload.
 
 # October 30th set up GitHub account.
 
